@@ -1,0 +1,20 @@
+Pseudomonas	aeruginosa	(Pa)	infection	in	cystic	fibrosis	(CF)	patients	is	associated	with	worse	long-term	pulmonary	disease	and	shorter	survival,	and	chronic	Pa	infection	(CPA)	is	associated	with	reduced	lung	function,	faster	rate	of	lung	decline,	increased	rates	of	exacerbations	and	shorter	survival
+
+T047	T047	T047	T047	0	T047	T047	0	0	0	0	0	0	0	T047	T047	0	0	0	0	T047	T047	T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+By	using	exome	sequencing	and	extreme	phenotype	design,	it	was	recently	shown	that	isoforms	of	dynactin	4	(DCTN4)	may	influence	Pa	infection	in	CF,	leading	to	worse	respiratory	disease
+
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	0	0	0	0	0	0	0
+
+A	total	of	121	adult	CF	patients	from	the	Cochin	Hospital	CF	centre	have	been	included,	all	of	them	carrying	two	CFTR	defects:	103	developed	at	least	1	pulmonary	infection	with	Pa,	and	68	patients	of	them	had	CPA
+
+0	0	0	0	0	T047	0	0	0	0	0	T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	T047	0	0	0	0	0	0	0	0	0
+
+Nosocomial	pneumonia	due	to	MRSA	in	hospitalized	adults
+
+T047	T047	0	0	0	0	0	0
+
+The	Role	of	TRAF4	and	B3GAT1	Gene	Expression	in	the	Food	Hypersensitivity	and	Insect	Venom	Allergy	in	Mastocytosis
+
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047
+

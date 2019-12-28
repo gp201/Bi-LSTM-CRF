@@ -1,0 +1,613 @@
+DCTN4	as	a	modifier	of	chronic	Pseudomonas	aeruginosa	infection	in	cystic	fibrosis
+0	0	0	0	0	T047	T047	T047	T047	0	T047	T047
+Pseudomonas	aeruginosa	(Pa)	infection	in	cystic	fibrosis	(CF)	patients	is	associated	with	worse	long-term	pulmonary	disease	and	shorter	survival,	and	chronic	Pa	infection	(CPA)	is	associated	with	reduced	lung	function,	faster	rate	of	lung	decline,	increased	rates	of	exacerbations	and	shorter	survival
+T047	T047	T047	T047	0	T047	T047	0	0	0	0	0	0	0	T047	T047	0	0	0	0	T047	T047	T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+By	using	exome	sequencing	and	extreme	phenotype	design,	it	was	recently	shown	that	isoforms	of	dynactin	4	(DCTN4)	may	influence	Pa	infection	in	CF,	leading	to	worse	respiratory	disease
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	0	0	0	0	0	0	0
+The	purpose	of	this	study	was	to	investigate	the	role	of	DCTN4	missense	variants	on	Pa	infection	incidence,	age	at	first	Pa	infection	and	chronic	Pa	infection	incidence	in	a	cohort	of	adult	CF	patients	from	a	single	centre
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	0	0	0	0	0	T047	0	T047	0	T047	0	0	0	0	0	0	T047	0	0	0	0	0
+Polymerase	chain	reaction	and	direct	sequencing	were	used	to	screen	DNA	samples	for	DCTN4	variants
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A	total	of	121	adult	CF	patients	from	the	Cochin	Hospital	CF	centre	have	been	included,	all	of	them	carrying	two	CFTR	defects:	103	developed	at	least	1	pulmonary	infection	with	Pa,	and	68	patients	of	them	had	CPA
+0	0	0	0	0	T047	0	0	0	0	0	T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	T047	0	0	0	0	0	0	0	0	0
+DCTN4	variants	were	identified	in	24%	(29/121)	CF	patients	with	Pa	infection	and	in	only	17%	(3/18)	CF	patients	with	no	Pa	infection
+0	0	0	0	0	0	0	0	0	0	0	T047	0	0	0	0	0	0	0	0	0	0	T047
+Of	the	patients	with	CPA,	29%	(20/68)	had	DCTN4	missense	variants	vs	23%	(8/35)	in	patients	without	CPA
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interestingly,	p
+0	0
+Tyr263Cys	tend	to	be	more	frequently	observed	in	CF	patients	with	CPA	than	in	patients	without	CPA	(4/68	vs	0/35),	and	DCTN4	missense	variants	tend	to	be	more	frequent	in	male	CF	patients	with	CPA	bearing	two	class	II	mutations	than	in	male	CF	patients	without	CPA	bearing	two	class	II	mutations	(P	=	0
+0	0	0	0	0	0	0	0	T047	0	0	T047	0	0	0	0	T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	0	0	T047	0	0	0	0	0	0	0	0	T047	0	0	T047	0	0	0	0	0	0	0	0
+06)
+0
+Our	observations	reinforce	that	DCTN4	missense	variants,	especially	p
+0	0	0	0	0	0	0	0	0
+Tyr263Cys,	may	be	involved	in	the	pathogenesis	of	CPA	in	male	CF
+0	0	0	0	0	0	0	0	0	0	0	0
+Nonylphenol	diethoxylate	inhibits	apoptosis	induced	in	PC12	cells
+0	0	0	0	0	0	0	0
+Nonylphenol	and	short-chain	nonylphenol	ethoxylates	such	as	NP2	EO	are	present	in	aquatic	environment	as	wastewater	contaminants,	and	their	toxic	effects	on	aquatic	species	have	been	reported
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Apoptosis	has	been	shown	to	be	induced	by	serum	deprivation	or	copper	treatment
+0	0	0	0	0	0	0	0	0	0	0	0	0
+To	understand	the	toxicity	of	nonylphenol	diethoxylate,	we	investigated	the	effects	of	NP2	EO	on	apoptosis	induced	by	serum	deprivation	and	copper	by	using	PC12	cell	system
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nonylphenol	diethoxylate	itself	showed	no	toxicity	and	recovered	cell	viability	from	apoptosis
+0	0	0	0	0	0	0	0	0	0	0	0
+In	addition,	nonylphenol	diethoxylate	decreased	DNA	fragmentation	caused	by	apoptosis	in	PC12	cells
+0	0	0	0	0	0	0	0	0	0	0	0	0
+This	phenomenon	was	confirmed	after	treating	apoptotic	PC12	cells	with	nonylphenol	diethoxylate,	whereas	the	cytochrome	c	release	into	the	cytosol	decreased	as	compared	to	that	in	apoptotic	cells	not	treated	with	nonylphenol	diethoxylate	s
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Furthermore,	Bax	contents	in	apoptotic	cells	were	reduced	after	exposure	to	nonylphenol	diethoxylate
+0	0	0	0	0	0	0	0	0	0	0	0	0
+Thus,	nonylphenol	diethoxylate	has	the	opposite	effect	on	apoptosis	in	PC12	cells	compared	to	nonylphenol,	which	enhances	apoptosis	induced	by	serum	deprivation
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	difference	in	structure	of	the	two	compounds	is	hypothesized	to	be	responsible	for	this	phenomenon
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+These	results	indicated	that	nonylphenol	diethoxylate	has	capability	to	affect	cell	differentiation	and	development	and	has	potentially	harmful	effect	on	organisms	because	of	its	unexpected	impact	on	apoptosis
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+©	2015	Wiley	Periodicals,	Inc
+0	0	0	0	0
+Environ	Toxicol	31:	1389-1398,	2016
+0	0	0	0	0
+Prevascularized	silicon	membranes	for	the	enhancement	of	transport	to	implanted	medical	devices
+0	0	0	0	0	0	0	0	0	0	0	0
+Recent	advances	in	drug	delivery	and	sensing	devices	for	in	situ	applications	are	limited	by	the	diffusion	-limiting	foreign	body	response	of	fibrous	encapsulation
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+In	this	study,	we	fabricated	prevascularized	synthetic	device	ports	to	help	mitigate	this	limitation
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Membranes	with	rectilinear	arrays	of	square	pores	with	widths	ranging	from	40	to	200	μm	were	created	using	materials	(50	μm	thick	double-sided	polished	silicon)	and	processes	(photolithography	and	directed	reactive	ion	etching)	common	in	the	manufacturing	of	microfabricated	sensors
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vascular	endothelial	cells	responded	to	membrane	geometry	by	either	forming	vascular	tubes	that	extended	through	the	pore	or	completely	filling	membrane	pores	after	4	days	in	culture
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Although	tube	formation	began	to	predominate	overgrowth	around	75	μm	and	continued	to	increase	at	even	larger	pore	sizes,	tubes	formed	at	these	large	pore	sizes	were	not	completely	round	and	had	relatively	thin	walls
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thus,	the	optimum	range	of	pore	size	for	prevascularization	of	these	membranes	was	estimated	to	be	75-100	μm
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+This	study	lays	the	foundation	for	creating	a	prevascularized	port	that	can	be	used	to	reduce	fibrous	encapsulation	and	thus	enhance	diffusion	to	implanted	medical	devices	and	sensors
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+©	2015	Wiley	Periodicals,	Inc
+0	0	0	0	0
+J	Biomed	Mater	Res	Part	B:	Appl	Biomater,	104B:	1602-1609,	2016
+0	0	0	0	0	0	0	0	0	0	0
+Seated	maximum	flexion:	An	alternative	to	standing	maximum	flexion	for	determining	presence	of	flexion	-	relaxation?
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	flexion	-	relaxation	phenomenon	(FRP)	in	standing	is	a	specific	and	sensitive	diagnostic	tool	for	low	back	pain
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seated	flexion	as	an	alternative	could	be	beneficial	for	certain	populations,	yet	the	behavior	of	the	trunk	extensors	during	seated	maximum	flexion	compared	to	standing	flexion	remains	unclear
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Compare	FRP	occurrences	and	spine	angles	between	seated	and	standing	flexion	postures	in	three	levels	of	the	erector	spinae	muscles
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thirty-one	participants	free	of	back	pain	performed	seated	and	standing	maximum	trunk	flexion
+0	0	0	0	0	0	0	0	0	0	0	0	0
+Electromyographical	signals	were	recorded	from	the	bilateral	lumbar	(L3),	lower-thoracic	(T9),	and	upper-thoracic	(T4)	erector	spinae	and	assessed	for	the	occurrence	of	FRP
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spine	angles	corresponding	to	FRP	onset	and	cessation	were	determined,	and	FRP	occurrences	and	angles	were	compared	between	posture	and	muscle
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FRP	occurrence	was	similar	in	standing	and	seated	maximum	flexion	across	all	muscles,	with	the	lumbar	muscles	showing	the	greatest	consistency
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Standing	FRP	onset	and	cessation	angles	were	consistently	greater	than	the	corresponding	seated	FRP	angles
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Considering	the	similar	number	of	FRP	occurrences,	seated	maximum	flexion	may	constitute	an	objective	criterion	for	low	back	pain	diagnosis
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Future	work	should	seek	to	confirm	the	utility	of	this	test	in	individuals	with	low	back	pain
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	Relationship	Between	Distance	and	Post-operative	Visit	Attendance	Following	Medical	Male	Circumcision	in	Nyanza	Province,	Kenya
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+To	date,	there	is	no	research	on	voluntary	medical	male	circumcision	(VMMC)	catchment	areas	or	the	relationship	between	distance	to	a	VMMC	facility	and	attendance	at	a	post-operative	follow-up	visit
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+We	analyzed	data	from	a	randomly	selected	subset	of	males	self-seeking	circumcision	at	one	of	16	participating	facilities	in	Nyanza	Province,	Kenya	between	2008	and	2010
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Among	1437	participants,	46
+0	0	0	0
+7	%	attended	follow-up
+0	0	0	0
+The	median	distance	from	residence	to	utilized	facility	was	2
+0	0	0	0	0	0	0	0	0	0
+98	km	(IQR	1
+0	0	0	0
+31-5
+0
+38)
+0
+Nearly	all	participants	(98
+0	0	0	0
+8	%)	lived	within	5	km	from	a	facility,	however,	26
+0	0	0	0	0	0	0	0	0	0	0
+3	%	visited	a	facility	more	than	5	km	away
+0	0	0	0	0	0	0	0	0	0
+Stratified	results	demonstrated	that	among	those	utilizing	fixed	facilities,	greater	distance	was	associated	with	higher	odds	of	follow-up	non-attendance	(OR	5
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+01-10km	vs
+0	0
+0-1km	=	1
+0	0	0
+71,	95	%	CI	1
+0	0	0	0	0
+08,	2
+0	0
+70,	p	=	0
+0	0	0	0
+02;	OR	>10km	vs
+0	0	0	0
+0-1	km	=	2
+0	0	0	0
+80,	95	%	CI	1
+0	0	0	0	0
+26,	6
+0	0
+21,	p	=	0
+0	0	0	0
+01),	adjusting	for	age	and	district	of	residence
+0	0	0	0	0	0	0	0
+We	found	5	km	marked	the	threshold	distance	beyond	which	follow-up	attendance	significantly	dropped
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+These	results	demonstrate	distance	is	an	important	predictor	of	attending	follow-up,	and	this	relationship	appears	to	be	modified	by	facility	type
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Promoting	lifestyle	behaviour	change	and	well-being	in	hospital	patients:	a	pilot	study	of	an	evidence-based	psychological	intervention
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lifestyle	risk	behaviours	show	an	inverse	social	gradient,	clustering	in	vulnerable	groups
+0	0	0	0	0	0	0	0	0	0	0	0
+We	designed	and	piloted	an	intervention	to	address	barriers	to	lifestyle	behaviour	change	among	hospital	patients
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+We	designed	our	intervention	using	effective	components	of	behaviour	change	interventions	informed	by	psychological	theory
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Delivered	by	a	health	psychologist	based	at	the	Royal	Free	London	NHS	Foundation	Trust,	the	4-week	intervention	included	detailed	baseline	assessment,	personalized	goal	setting,	psychological	skills	development,	motivation	support	and	referral	to	community	services
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Primary	outcomes	were	feasibility	and	patient	acceptability
+0	0	0	0	0	0	0
+We	also	evaluated	changes	to	health	and	well-being
+0	0	0	0	0	0	0	0
+From	1	July	2013	to	31	September	2014,	686	patients	were	referred,	338	(49
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3%)	attended	a	first	appointment	and	172	(25
+0	0	0	0	0	0	0	0
+1%)	completed	follow-up
+0	0	0
+Furthermore,	72
+0	0
+1%	of	attenders	were	female	with	the	median	age	55	years	and	poor	self-reported	baseline	health
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+After	4	weeks,	self-efficacy,	health	and	well-being	scores	significantly	improved:	63%	of	lifestyle	goals	and	89%	of	health	management	goals	were	fully	achieved;	58%	of	referrals	to	community	lifestyle	behaviour	change	services	and	79%	of	referrals	to	other	services	(e
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+g
+0
+Citizen's	Advice	Bureau)	were	accepted;	99%	were	satisfied	/	very	satisfied	with	the	service
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Our	hospital-based	intervention	was	feasible,	acceptable	and	showed	preliminary	health	and	well-being	gains
+0	0	0	0	0	0	0	0	0	0	0	0	0
+The	Impact	of	Deployment	on	Parental,	Family	and	Child	Adjustment	in	Military	Families
+0	0	0	0	0	0	0	0	0	0	0	0	0
+Since	9/11,	military	service	in	the	United	States	has	been	characterized	by	wartime	deployments	and	reintegration	challenges	that	contribute	to	a	context	of	stress	for	military	families
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Research	indicates	the	negative	impact	of	wartime	deployment	on	the	well	being	of	service	members,	military	spouses,	and	children
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Yet,	few	studies	have	considered	how	parental	deployments	may	affect	adjustment	in	young	children	and	their	families
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Using	deployment	records	and	parent	-	reported	measures	from	primary	caregiving	(N	=	680)	and	military	(n	=	310)	parents,	we	examined	the	influence	of	deployment	on	adjustment	in	military	families	with	children	ages	0-10	years
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Greater	deployment	exposure	was	related	to	impaired	family	functioning	and	marital	instability
+0	0	0	0	0	0	0	0	0	0	0	0
+Parental	depressive	and	posttraumatic	stress	symptoms	were	associated	with	impairments	in	social	emotional	adjustment	in	young	children,	increased	anxiety	in	early	childhood,	and	adjustment	problems	in	school-age	children
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Conversely,	parental	sensitivity	was	associated	with	improved	social	and	emotional	outcomes	across	childhood
+0	0	0	0	0	0	0	0	0	0	0	0	0
+These	findings	provide	guidance	to	developing	preventive	approaches	for	military	families	with	young	children
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Combining	electrostatic	powder	with	an	insecticide:	effect	on	stored	-	product	beetles	and	on	the	commodity
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	opportunity	to	reduce	the	amount	of	pirimiphos-methyl	applied	to	grain	by	formulating	it	in	an	electrostatic	powder	was	investigated
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	insecticidal	efficacy	of	pirimiphos-methyl	in	EC	formulation	or	formulated	using	electrostatic	powder	(EP)	as	an	inert	carrier	was	investigated	against	Sitophilus	oryzae	(L
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+),	Oryzaephilus	surinamensis	(L
+0	0	0	0
+),	Rhyzopertha	dominica	(F
+0	0	0	0
+)	and	Tribolium	confusum	Jacquelin	du	Val
+0	0	0	0	0	0	0
+Furthermore,	the	adhesive	properties	of	EP	to	rice,	corn	and	wheat,	together	with	the	effect	on	bulk	density	and	bread	-	and	pasta	-	making	properties,	were	investigated
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	results	showed	that	pirimiphos-methyl	formulated	with	EP	provided	better	efficacy	against	adults	when	compared	with	EC	formulation	for	O
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+surinamensis	and	T
+0	0	0
+confusum,	but	there	was	no	difference	for	R
+0	0	0	0	0	0	0	0
+dominica
+0
+Progeny	production	was	consistently	lower	in	grain	treated	with	the	EP	formulation	than	in	grain	treated	with	the	EC
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tests	showed	that	EP	adhered	to	the	kernels	for	longer	on	hard	wheat	than	on	maize	or	rice
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+In	most	commodities,	EP	did	not	alter	the	bulk	density
+0	0	0	0	0	0	0	0	0	0
+Finally,	the	addition	of	EP	did	not	affect	flour	-	and	bread	-	making	properties,	nor	the	pasta	-making	properties
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	results	of	the	present	study	suggest	that	an	EP	could	be	used	to	reduce	the	amount	of	pirimiphos-methyl	applied	to	grain	for	effective	pest	control,	with	no	detrimental	effects	on	grain	quality
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+©	2016	Society	of	Chemical	Industry
+0	0	0	0	0	0
+Radiofrequency	ablation	of	posteroseptal	accessory	pathways	associated	with	coronary	sinus	diverticula
+0	0	0	0	0	0	0	0	T019,T047	T019,T047	T019,T047
+Posteroseptal	accessory	pathways	may	be	associated	with	a	coronary	sinus	(CS)	diverticulum
+0	0	0	0	0	0	0	0	0	0	0	0
+Our	purpose	was	to	describe	the	clinical	characteristics,	mapping	and	ablation	of	these	pathways
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+This	was	a	retrospective	study	of	all	patients	who	underwent	ablation	of	posteroseptal	accessory	pathways	in	a	single	centre
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Patients	with	a	diverticulum	of	the	CS	or	one	of	its	tributaries	were	included	in	group	I,	while	the	other	patients	formed	group	II
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clinical	presentation,	ablation	procedure	and	outcome	were	compared	between	the	two	groups
+0	0	0	0	0	0	0	0	0	0	0	0
+A	total	of	51	patients	were	included,	16	in	group	I	and	35	in	group	II
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+There	were	no	significant	differences	in	age	or	sex	distribution
+0	0	0	0	0	0	0	0	0	0
+Atrial	fibrillation	(AF)	and	previous	unsuccessful	ablation	were	more	common	in	group	I
+0	0	0	0	0	0	0	0	0	0	0	0	0
+A	negative	delta	wave	in	lead	II	was	the	ECG	finding	with	best	sensitivity	and	specificity	for	the	presence	of	a	diverticulum
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A	pathway	potential	was	common	at	the	successful	site	in	group	I,	and	the	interval	between	local	ventricular	electrogram	and	delta	wave	onset	was	shorter	(19
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5	±	8	vs	33
+0	0	0	0	0
+1	±	7
+0	0	0
+6	ms,	p	<	0
+0	0	0	0	0
+001)
+0
+There	was	a	trend	toward	lower	procedural	success	rate	and	higher	recurrence	rate	in	group	I,	although	this	was	not	significant
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CS	diverticula	should	be	suspected	in	patients	with	manifest	posteroseptal	accessory	pathways	who	have	a	previous	failed	ablation,	documented	AF	or	typical	electrocardiographic	signs
+0	T019,T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A	discrete	potential	is	frequently	seen	at	the	successful	site,	but	the	local	ventricular	electrogram	is	not	as	early	as	in	other	accessory	pathways
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Association	of	RBP4	levels	with	increased	arterial	stiffness	in	adolescents	with	family	history	of	type	2	diabetes
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	aim	of	this	study	was	to	explore	the	impact	of	family	history	of	type	2	diabetes	(FH2D)	on	arterial	stiffness	in	young	people	and	its	relationship	to	adipocytokines
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+This	case-control	study	included	52	adolescents	(male	/	female	28/24)	with	FH2D	(FH2D+)	and	40	adolescents	(male	/	female	21/19)	without	FH2D	(FH2D-)
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anthropometric	measurements,	including	height,	weight,	waist	circumference	(WC),	and	blood	pressure,	were	obtained
+0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood	samples	were	collected,	fasting	plasma	glucose	(FPG),	serum	lipids,	Retinol	Binding	Protein	4	(RBP4),	C	reactive	protein	(CRP),	adiponectin	and	visfatin	were	examined
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brachial-ankle	pulse	wave	velocity	(baPWV)	was	used	to	evaluate	arterial	stiffness
+0	0	0	0	0	0	0	0	0	0	0
+Visceral	fat	area	(VFA)	was	measured	by	computerized	tomography
+0	0	0	0	0	0	0	0	0
+Compared	with	FH2D-	group,	FH2D+	group	had	a	significantly	higher	oral	glucose	tolerance	test	(OGTT)	2-hour	insulin,	RBP4	and	baPWV	levels,	a	lower	adiponectin	and	glucose	infusing	rate	(GIR)	(P<0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+05)
+0
+BaPWV	was	positively	correlated	with	age,	systolic	blood	pressure	(SBP),	diastolic	blood	pressure	(DBP),	2-hour	(OGTT)	insulin,	RBP4,	and	VFA,	and	negatively	correlated	with	GIR	in	FH2D+	group
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+After	multivariate	analysis,	age,	SBP,	RBP4	and	VFA	maintained	an	independent	association	with	baPWV	in	FH2D+	group	(P<0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+05),	while	only	age,	SBP,	and	VFA	were	independent	predictors	of	baPWV	in	FH2D-	group	(P<0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+05)
+0
+These	findings	led	to	the	conclusion	that	RBP4	level	was	associated	with	increased	arterial	stiffness	in	young	subjects	with	family	history	of	type	2	diabetes
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+EZH2	and	ZFX	oncogenes	in	malignant	behaviour	of	parathyroid	neoplasms
+0	0	0	0	0	0	0	0	0	0
+Several	studies	reported	somatic	mutations	of	many	genes	(MEN1,	CTNNB1,	CDKIs	and	others)	in	parathyroid	adenoma,	although	with	different	prevalence
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Recently,	activating	mutations	of	the	EZH2	and	ZFX	oncogenes	were	identified	in	benign	parathyroid	adenoma	by	whole	exome	sequencing
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	same	mutations	had	been	found	in	blood	and	ovary	malignant	tumours
+0	0	0	0	0	0	0	0	0	0	0	0
+On	one	hand,	this	result	raised	the	hypothesis	that	these	oncogenes	may	play	a	role	in	the	onset	of	parathyroid	tumour,	but	it	would	also	suggest	they	may	be	involved	in	malignant,	rather	benign,	parathyroid	neoplasm
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Our	aim	was	to	verify	the	occurrence	of	selected	mutations	of	the	EZH2	and	ZFX	genes	in	an	Italian	cohort	of	23	sporadic	parathyroid	carcinomas,	12	atypical	and	45	typical	adenomas
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DNA	was	extracted	from	paraffin-embedded	tissues,	PCR	amplified	and	directly	sequenced
+0	0	0	0	0	0	0	0	0	0	0
+No	mutations	were	detected	in	the	coding	sequence	and	boundaries	of	both	genes	in	any	of	the	samples
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Two	polymorphisms	of	the	EZH2	gene	were	identified	with	different	prevalence:	the	rs2072407	variant	was	present	in	the	30	%	of	the	samples,	in	keeping	with	the	overall	frequency	in	larger	populations,	while	the	rs78589034	variant,	located	close	to	the	5'	end	of	the	exon	16,	was	detected	in	only	one	proband	with	familial	isolated	hyperparathyroidism;	we	investigated	the	possible	outcome	on	the	splicing	process
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+EZH2	and	ZFX	genes	do	not	seem	to	have	an	impact	on	the	onset	of	most	parathyroid	tumours,	both	benign	and	malignant,	though	further	studies	on	larger	cohorts	of	different	ethnicity	are	needed
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	effect	of	total	hip	arthroplasty	on	sagittal	spinal	-	pelvic-leg	alignment	and	low	back	pain	in	patients	with	severe	hip	osteoarthritis
+0	0	0	0	T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	T047
+Sagittal	spinopelvic	malalignment	has	been	reported	in	spinal	disorders	such	as	low	back	pain	(LBP),	and	restoration	of	normal	alignment	is	targeted	when	treating	these	disorders
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Abnormal	sagittal	spinal	-	pelvic-leg	alignment	has	been	reported	in	patients	with	severe	hip	osteoarthritis	(OA),	who	have	a	high	prevalence	of	associated	LBP
+0	0	0	0	0	0	0	0	0	0	0	0	0	T047	T047	0	0	0	0	0	0	0	0	0
+This	prospective	longitudinal	study	aimed	to	investigate	changes	in	sagittal	spinal	-	pelvic-leg	alignment	after	total	hip	arthroplasty	(THA)	in	patients	with	severe	hip	OA,	and	whether	these	changes	contribute	to	LBP	relief
+0	0	0	0	0	0	0	0	0	0	T047	0	0	0	0	0	T047	0	0	0	0	0	0	T047	0	0	0	0	0	0	0	0	0
+Patients	undergoing	primary	THA	due	to	severe	unilateral	hip	OA	were	recruited
+0	0	0	0	0	0	0	0	0	0	0	0
+Physical	examination	and	X-ray	films	were	taken	to	rule	out	any	spinal	disorder
+0	0	0	0	0	0	0	0	0	0	0	0	0
+Sagittal	alignment	of	pelvis,	hip,	and	spine	was	analyzed	on	lateral	radiographs	taken	before	(baseline)	and	1	year	after	(follow-up)	THA
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Functional	instruments	were	completed	by	patients	including:	visual	analog	scale	(VAS)	for	LBP,	Roland-Morris	Disability	Questionnaire	(RMDQ),	and	Harris	Hip	Score	(HHS)
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Comparisons	were	carried	out	at	baseline	and	follow-up,	and	between	patients	with	and	without	LBP
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	recruited	69	patients	showed	significantly	reduced	hip	flexion	and	improved	global	spinal	balance	at	follow-up	compared	with	baseline
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LBP	was	reported	by	39	patients	(56
+0	0	0	0	0	0	0
+5	%)	before	surgery;	at	follow-up,	17	reported	complete	resolution,	while	22	reported	significant	relief
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Significant	decreases	in	VAS	and	RMDQ	scores	in	lumbar	spine	and	increase	in	hip	HHS	were	observed
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+THA	in	patients	with	severe	hip	OA	could	help	correct	abnormal	sagittal	spinal	-	pelvic-leg	alignment	and	relieve	comorbid	LBP
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Improvements	in	hip	flexion	and	global	spinal	balance	might	be	involved	in	the	mechanism	of	LBP	relief
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beyond	neutral	and	forbidden	links:	morphological	matches	and	the	assembly	of	mutualistic	hawkmoth	-	plant	networks
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A	major	challenge	in	evolutionary	ecology	is	to	understand	how	co-evolutionary	processes	shape	patterns	of	interactions	between	species	at	community	level
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pollination	of	flowers	with	long	corolla	tubes	by	long-tongued	hawkmoths	has	been	invoked	as	a	showcase	model	of	co-evolution
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Recently,	optimal	foraging	models	have	predicted	that	there	might	be	a	close	association	between	mouthparts'	length	and	the	corolla	depth	of	the	visited	flowers,	thus	favouring	trait	convergence	and	specialization	at	community	level
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Here,	we	assessed	whether	hawkmoths	more	frequently	pollinate	plants	with	floral	tube	lengths	similar	to	their	proboscis	lengths	(morphological	match	hypothesis)	against	abundance	-based	processes	(neutral	hypothesis)	and	ecological	trait	mismatches	constraints	(forbidden	links	hypothesis),	and	how	these	processes	structure	hawkmoth	-	plant	mutualistic	networks	from	five	communities	in	four	biogeographical	regions	of	South	America
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+We	found	convergence	in	morphological	traits	across	the	five	communities	and	that	the	distribution	of	morphological	differences	between	hawkmoths	and	plants	is	consistent	with	expectations	under	the	morphological	match	hypothesis	in	three	of	the	five	communities
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+In	the	two	remaining	communities,	which	are	ecotones	between	two	distinct	biogeographical	areas,	interactions	are	better	predicted	by	the	neutral	hypothesis
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Our	findings	are	consistent	with	the	idea	that	diffuse	co-evolution	drives	the	evolution	of	extremely	long	proboscises	and	flower	tubes,	and	highlight	the	importance	of	morphological	traits,	beyond	the	forbidden	links	hypothesis,	in	structuring	interactions	between	mutualistic	partners,	revealing	that	the	role	of	niche-based	processes	can	be	much	more	complex	than	previously	known
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Impact	of	totally	laparoscopic	combined	management	of	colorectal	cancer	with	synchronous	hepatic	metastases	on	severity	of	complications:	a	propensity-score	-based	analysis
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thanks	to	widespread	diffusion	of	minimally	invasive	approach	in	the	setting	of	both	colorectal	and	hepatic	surgeries,	the	interest	in	combined	resections	for	colorectal	cancer	and	synchronous	liver	metastases	(SCLM)	by	totally	laparoscopic	approach	(TLA)	has	increased
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aim	of	this	study	was	to	compare	outcome	of	combined	resections	for	SCLM	performed	by	TLA	or	by	open	approach,	in	a	propensity-score-based	study
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+All	25	patients	undergoing	combined	TLA	for	SCLM	at	San	Raffaele	Hospital	in	Milano	were	compared	in	a	case-matched	analysis	with	25	out	of	91	patients	undergoing	totally	open	approach	(TOA	group)
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Groups	were	matched	with	1:2	ratio	using	propensity	scores	based	on	covariates	representing	disease	severity
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Main	endpoints	were	postoperative	morbidity	and	long-term	outcome
+0	0	0	0	0	0	0	0
+The	Modified	Accordion	Severity	Grading	System	was	used	to	quantify	complications
+0	0	0	0	0	0	0	0	0	0	0
+The	groups	resulted	comparable	in	terms	of	patients	and	disease	characteristics
+0	0	0	0	0	0	0	0	0	0	0
+The	TLA	group,	as	compared	to	the	TOA	group,	had	lower	blood	loss	(350	vs	600	mL),	shorter	postoperative	stay	(9	vs	12	days),	lower	postoperative	morbidity	index	(0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	vs	0
+0	0	0
+20)	and	severity	score	for	complicated	patients	(0
+0	0	0	0	0	0	0	0
+60	vs	0
+0	0	0
+85)
+0
+Colonic	anastomosis	leakage	had	the	highest	fractional	complication	burden	in	both	groups
+0	0	0	0	0	0	0	0	0	0	0	0
+In	spite	of	comparable	long-term	overall	survival,	the	TLA	group	had	better	recurrence-free	survival
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TLA	for	combined	resections	is	feasible,	and	its	indications	can	be	widened	to	encompass	a	larger	population	of	patients,	provided	its	benefits	in	terms	of	reduced	overall	risk	and	severity	of	complications,	rapid	functional	recovery	and	favorable	long-term	outcomes
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Application	of	an	Analytical	Solution	as	a	Screening	Tool	for	Sea	Water	Intrusion
+0	0	0	0	0	0	0	0	0	0	0	0	0
+Sea	water	intrusion	into	aquifers	is	problematic	in	many	coastal	areas
+0	0	0	0	0	0	0	0	0	0	0
+The	physics	and	chemistry	of	this	issue	are	complex,	and	sea	water	intrusion	remains	challenging	to	quantify
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Simple	assessment	tools	like	analytical	models	offer	advantages	of	rapid	application,	but	their	applicability	to	field	situations	is	unclear
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+This	study	examines	the	reliability	of	a	popular	sharp-interface	analytical	approach	for	estimating	the	extent	of	sea	water	in	a	homogeneous	coastal	aquifer	subjected	to	pumping	and	regional	flow	effects	and	under	steady-state	conditions
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	analytical	model	is	tested	against	observations	from	Canada,	the	United	States,	and	Australia	to	assess	its	utility	as	an	initial	approximation	of	sea	water	extent	for	the	purposes	of	rapid	groundwater	management	decision	making
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	occurrence	of	sea	water	intrusion	resulting	in	increased	salinity	at	pumping	wells	was	correctly	predicted	in	approximately	60%	of	cases
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Application	of	a	correction	to	account	for	dispersion	did	not	markedly	improve	the	results
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Failure	of	the	analytical	model	to	provide	correct	predictions	can	be	attributed	to	mismatches	between	its	simplifying	assumptions	and	more	complex	field	settings
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	best	results	occurred	where	the	toe	of	the	salt	water	wedge	is	expected	to	be	the	closest	to	the	coast	under	predevelopment	conditions
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Predictions	were	the	poorest	for	aquifers	where	the	salt	water	wedge	was	expected	to	extend	further	inland	under	predevelopment	conditions	and	was	therefore	more	dispersive	prior	to	pumping
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sharp-interface	solutions	remain	useful	tools	to	screen	for	the	vulnerability	of	coastal	aquifers	to	sea	water	intrusion,	although	the	significant	sources	of	uncertainty	identified	in	this	study	require	careful	consideration	to	avoid	misinterpreting	sharp-interface	results
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Patient	-	Physician	Discordance	in	Global	Assessment	in	Rheumatoid	Arthritis:	A	Systematic	Literature	Review	With	Meta-Analysis
+0	0	0	0	0	0	0	0	T047	0	0	0	0	0	0	0
+The	integration	of	the	patient	in	therapeutic	decision-making	is	important	in	the	management	of	rheumatoid	arthritis	(RA),	but	the	patient	opinion	regarding	disease	status	may	differ	from	the	physician's	opinion
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	aim	of	this	study	was	to	assess	in	the	published	literature	the	frequency	and	drivers	of	patient	-	physician	discordance	in	global	assessment	in	RA
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A	systematic	literature	review	of	all	articles	published	up	to	January	2015	in	Medline	or	Embase,	reporting	discordance	in	RA,	was	conducted	by	2	investigators
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Discordance	was	defined	based	on	the	absolute	difference	of	patient	global	(PGA)	and	physician	global	assessments	(PhGA)	on	0-10-cm	scales
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	frequency	of	discordance	and	its	predictors	were	collected	in	each	study
+0	0	0	0	0	0	0	0	0	0	0	0
+Frequencies	of	discordance	were	pooled	by	meta-analysis	using	random	effect
+0	0	0	0	0	0	0	0	0	0
+In	all,	12	studies	were	selected	(i
+0	0	0	0	0	0	0
+e
+0
+,	11,879	patients):	weighted	mean	±	SD	age	was	55
+0	0	0	0	0	0	0	0	0	0
+1	±	13
+0	0	0
+9	years,	weighted	mean	±	SD	disease	duration	was	10
+0	0	0	0	0	0	0	0	0	0
+4	±	9
+0	0	0
+3	years,	and	80
+0	0	0	0
+7%	were	women
+0	0	0
+The	value	of	the	difference	|	PGA	-	PhGA	|	defining	discordance	varied	between	≥0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5	cm	(n	=	2	studies)	to	≥3	cm	(n	=	5	studies);	the	weighted	mean	value	was	2
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7	cm
+0	0
+The	pooled	percentage	of	patients	with	discordance	was	43%	(95%	confidence	interval	36%-51%;	range	25%-76%)
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PGA	was	usually	higher	than	PhGA
+0	0	0	0	0	0
+The	drivers	of	PGA	were	pain	and	functional	incapacity,	whereas	drivers	of	PhGA	were	joint	counts	and	acute-phase	reactants
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Discordance	in	global	assessment	was	most	frequently	defined	as	a	difference	of	3	points	or	more;	even	with	such	a	stringent	definition,	up	to	half	the	patients	were	found	to	be	discordant
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	long-term	consequences	of	this	discordance	remain	to	be	determined
+0	0	0	0	0	0	0	0	0	0
+Nosocomial	pneumonia	caused	by	methicillin-resistant	Staphylococcus	aureus	treated	with	linezolid	or	vancomycin:	A	secondary	economic	analysis	of	resource	use	from	a	Spanish	perspective
+T047	T047	0	0	T007	T007	T007	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adopting	a	unique	Spanish	perspective,	this	study	aims	to	assess	healthcare	resource	utilization	(HCRU)	and	the	costs	of	treating	nosocomial	pneumonia	(NP)	produced	by	methicillin-resistant	Staphylococcus	aureus	(MRSA)	in	hospitalized	adults	using	linezolid	or	vancomycin
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	0	0	0	T007	T007	T007	0	0	0	0	0	0	0	0
+An	evaluation	is	also	made	of	the	renal	failure	rate	and	related	economic	outcomes	between	study	groups
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+An	economic	post	hoc	evaluation	of	a	randomized,	double-blind,	multicenter	phase	4	study	was	carried	out
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nosocomial	pneumonia	due	to	MRSA	in	hospitalized	adults
+T047	T047	0	0	0	0	0	0
+The	modified	intent	to	treat	(mITT)	population	comprised	224	linezolid	-	and	224	vancomycin	-	treated	patients
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Costs	and	HCRU	were	evaluated	between	patients	administered	either	linezolid	or	vancomycin,	and	between	patients	who	developed	renal	failure	and	those	who	did	not
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Analysis	of	HCRU	outcomes	and	costs
+0	0	0	0	0	0
+Total	costs	were	similar	between	the	linezolid	-	(€17,782±€9,615)	and	vancomycin	-	treated	patients	(€17,423±€9,460)	(P=
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+69)
+0
+The	renal	failure	rate	was	significantly	lower	in	the	linezolid	-	treated	patients	(4%	vs
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15%;	P<
+0	0
+001)
+0
+The	total	costs	tended	to	be	higher	in	patients	who	developed	renal	failure	(€19,626±€10,840	vs
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+€17,388±€9,369;	P=
+0	0
+14)
+0
+Among	the	patients	who	developed	renal	failure,	HCRU	(days	on	mechanical	ventilation:	13
+0	0	0	0	0	0	0	0	0	0	0	0	0
+2±10
+0
+7	vs
+0	0
+7
+0
+6±3
+0
+6	days;	P=
+0	0	0
+21;	ICU	stay:	14
+0	0	0	0
+4±10
+0
+5	vs
+0	0
+9
+0
+9±6
+0
+6	days;	P=
+0	0	0
+30;	hospital	stay:	19
+0	0	0	0
+5±9
+0
+5	vs
+0	0
+16
+0
+1±11
+0
+0	days;	P=
+0	0	0
+26)	and	cost	(€17,219±€8,792	vs
+0	0	0	0	0
+€20,263±€11,350;	P=
+0	0
+51)	tended	to	be	lower	in	the	linezolid	-	vs
+0	0	0	0	0	0	0	0	0	0
+vancomycin	-	treated	patients
+0	0	0	0
+There	were	no	statistically	significant	differences	in	costs	per	patient	-	day	between	cohorts	after	correcting	for	mortality	(€1000	vs
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+€1,010;	P=
+0	0
+98)
+0
+From	a	Spanish	perspective,	there	were	no	statistically	significant	differences	in	total	costs	between	the	linezolid	and	vancomycin	pneumonia	cohorts
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047	0
+The	drug	cost	corresponding	to	linezolid	was	partially	offset	by	fewer	renal	failure	adverse	events
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	Role	of	TRAF4	and	B3GAT1	Gene	Expression	in	the	Food	Hypersensitivity	and	Insect	Venom	Allergy	in	Mastocytosis
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	T047
+Mastocytosis	is	an	uncommon	disease	classified	as	a	myeloproliferative	neoplasm,	however,	its	symptoms	are	broad	and	place	patients	at	crossroads	between	dermatology,	hematology	and	allergology
+T047	0	0	0	T047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Patients	with	mastocytosis	often	suffer	from	symptoms	resulting	from	the	activation	and	release	of	mediators	from	the	mast	cells,	such	as	generalized	itching,	redness,	headache,	abdominal	cramps,	diarrhea,	bone	pain	or	arthritis,	hypotension	and	shock
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	possible	severe,	fatal	or	near	fatal	reactions	caused	by	food	hypersensitivity	are	reasons	for	the	research	focused	on	marker	identification
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	aim	of	the	study	was	to	analyse	the	gene	expression	differences	in	mastocytosis	patients	with	and	without	food	and	drug	hypersensitivity	and	insect	venom	allergy	(IVA)
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A	total	of	57	Caucasian	patients	with	mastocytosis	were	studied	[median	age	41
+0	0	0	0	0	0	0	0	0	0	0	0	0
+8;	range	18-77	years;	15	(26
+0	0	0	0	0	0
+3	%)	males	and	42	(73
+0	0	0	0	0	0
+7	%)	females]
+0	0	0
+Quantitative	RT-PCRs	of	11	genes	plus	ribosomal	18S	RNA	were	run
+0	0	0	0	0	0	0	0	0	0	0
+Symptoms	of	food	hypersensitivity	were	found	in	12	patients	(21	%),	including	3	patients	(13	%)	with	cutaneous	mastocytosis	(CM),	and	9	(28	%)	with	indolent	systemic	mastocytosis	(ISM)
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+IVA	was	confirmed	in	13	patients	(22
+0	0	0	0	0	0	0
+8	%)	including	6	patients	(10
+0	0	0	0	0	0
+5	%)	with	CM,	and	7	patients	(12
+0	0	0	0	0	0	0	0
+3	%)	with	ISM
+0	0	0	0
+Drug	hypersensitivity	was	diagnosed	in	10	patients	(17
+0	0	0	0	0	0	0	0
+5	%)
+0	0
+Significant	differences	in	the	gene	expression	were	found	for	TRAF4	(p	=	0
+0	0	0	0	0	0	0	0	0	0	0	0	0
+008)	in	the	comparison	of	the	mastocytosis	patients	with	and	without	concomitant	food	hypersensitivity
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Furthermore	significant	differences	were	found	in	gene	expression	for	B3GAT1	(p	=	0
+0	0	0	0	0	0	0	0	0	0	0	0	0
+003)	in	patients	with	IVA	compared	to	patients	without	insect	sting	anaphylaxis	in	the	medical	history
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	expression	of	studied	genes	did	not	differ	according	to	the	presence	of	drug	hypersensitivity
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The	TRAF4	expression	was	higher	in	mastocytosis	patients	with	food	hypersensitivity	in	their	medical	history,	the	B3GAT1	expression	was	lower	in	mastocytosis	patients	with	IVA	in	history
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Generalized	Weakness	in	a	Transplant	Patient:	A	Case	Presentation
+0	0	0	0	0	0	0	0	0
+Generalized	weakness	in	transplant	patients	is	a	major	complaint	in	tertiary	rehabilitation	hospitals
+0	0	0	0	0	0	0	0	0	0	0	0	0
+The	diagnosis	and	management	of	generalized	weakness	in	this	population	pose	challenges	for	physicians
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+We	present	the	case	of	a	transplant	patient	with	generalized	weakness	who	was	eventually	diagnosed	with	calciphylaxis	using	a	multidisciplinary	diagnostic	approach	of	electrodiagnostics,	vascular	study,	and	skin	biopsy
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calciphylaxis	is	a	rare	cutaneous	disorder	that	mimics	other	collagen	vascular	diseases	in	its	presentation	and	fulminant	course
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Physiatrists	should	be	cognizant	of	calciphylaxis,	as	it	signals	a	poor	prognosis	if	not	correctly	diagnosed	and	treated	in	a	timely	manner,	with	high	incidence	of	sepsis,	wound	pain,	and	disability
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+V
+0
+Use	of	ecoacoustics	to	determine	biodiversity	patterns	across	ecological	gradients
+0	0	0	0	0	0	0	0	0	0
+The	variety	of	local	animal	sounds	characterizes	a	landscape
+0	0	0	0	0	0	0	0	0
+We	used	ecoacoustics	to	noninvasively	assess	the	species	richness	of	various	biotopes	typical	of	an	ecofriendly	forest	plantation	with	diverse	ecological	gradients	and	both	nonnative	and	indigenous	vegetation
